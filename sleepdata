@@ -1,0 +1,150 @@
+"Total cleaned rows =  22935 "
+"cutoff =  59.999 "
+"We dropped  1157  entries"
+
+
+
+"Data for filtered data sheet"
+"fish name", total minutes used, total minutes asleep
+" Result 1 Trial 1 Fish D6 ",  413 ,  9
+" Result 1 Trial 1 Fish D7 ",  172 ,  35
+" Result 1 Trial 1 Fish D8 ",  392 ,  132
+" Result 1 Trial 1 Fish D9 ",  376 ,  17
+" Result 1 Trial 1 Fish D10 ",  582 ,  99
+" Result 1 Trial 1 Fish D11 ",  224 ,  84
+" Result 1 Trial 1 Fish E2 ",  107 ,  29
+" Result 1 Trial 1 Fish E3 ",  250 ,  114
+" Result 1 Trial 1 Fish E4 ",  586 ,  159
+" Result 1 Trial 1 Fish E5 ",  409 ,  179
+" Result 1 Trial 1 Fish E6 ",  154 ,  39
+" Result 1 Trial 1 Fish E7 ",  99 ,  0
+" Result 1 Trial 1 Fish E9 ",  453 ,  47
+" Result 1 Trial 1 Fish E10 ",  261 ,  40
+" Result 1 Trial 1 Fish E11 ",  514 ,  129
+" Result 1 Trial 1 Fish F2 ",  256 ,  142
+" Result 1 Trial 1 Fish F3 ",  210 ,  108
+" Result 1 Trial 1 Fish F4 ",  106 ,  18
+" Result 1 Trial 1 Fish F5 ",  237 ,  66
+" Result 1 Trial 1 Fish F6 ",  245 ,  28
+" Result 1 Trial 1 Fish F7 ",  242 ,  38
+" Result 1 Trial 1 Fish F8 ",  58 ,  7
+" Result 1 Trial 1 Fish F9 ",  85 ,  25
+" Result 1 Trial 1 Fish F10 ",  216 ,  8
+" Result 1 Trial 1 Fish G2 ",  219 ,  57
+" Result 1 Trial 1 Fish G3 ",  379 ,  273
+" Result 1 Trial 1 Fish G4 ",  481 ,  182
+" Result 1 Trial 1 Fish G5 ",  587 ,  140
+" Result 1 Trial 1 Fish G6 ",  181 ,  0
+" Result 1 Trial 1 Fish G7 ",  88 ,  5
+" Result 1 Trial 1 Fish G8 ",  66 ,  0
+" Result 1 Trial 1 Fish G9 ",  227 ,  5
+" Result 1 Trial 1 Fish G10 ",  577 ,  83
+" Result 1 Trial 1 Fish G11 ",  235 ,  29
+" Result 1 Trial 2 Fish D6 ",  395 ,  32
+" Result 1 Trial 2 Fish D7 ",  363 ,  140
+" Result 1 Trial 2 Fish D8 ",  99 ,  22
+" Result 1 Trial 2 Fish D9 ",  166 ,  47
+" Result 1 Trial 2 Fish D10 ",  597 ,  198
+" Result 1 Trial 2 Fish D11 ",  574 ,  223
+" Result 1 Trial 2 Fish E2 ",  297 ,  96
+" Result 1 Trial 2 Fish E3 ",  395 ,  136
+" Result 1 Trial 2 Fish E4 ",  190 ,  21
+" Result 1 Trial 2 Fish E5 ",  379 ,  168
+" Result 1 Trial 2 Fish E6 ",  233 ,  50
+" Result 1 Trial 2 Fish E7 ",  321 ,  117
+" Result 1 Trial 2 Fish E8 ",  182 ,  71
+" Result 1 Trial 2 Fish E9 ",  194 ,  31
+" Result 1 Trial 2 Fish E10 ",  316 ,  62
+" Result 1 Trial 2 Fish E11 ",  254 ,  48
+" Result 1 Trial 2 Fish F2 ",  548 ,  80
+" Result 1 Trial 2 Fish F3 ",  495 ,  116
+" Result 1 Trial 2 Fish F4 ",  374 ,  59
+" Result 1 Trial 2 Fish F5 ",  318 ,  22
+" Result 1 Trial 2 Fish F6 ",  528 ,  80
+" Result 1 Trial 2 Fish F7 ",  597 ,  87
+" Result 1 Trial 2 Fish F8 ",  478 ,  84
+" Result 1 Trial 2 Fish F9 ",  370 ,  69
+" Result 1 Trial 2 Fish F10 ",  206 ,  48
+" Result 1 Trial 2 Fish F11 ",  216 ,  82
+" Result 1 Trial 2 Fish G2 ",  297 ,  46
+" Result 1 Trial 2 Fish G3 ",  278 ,  73
+" Result 1 Trial 2 Fish G4 ",  183 ,  33
+" Result 1 Trial 2 Fish G5 ",  459 ,  129
+" Result 1 Trial 2 Fish G6 ",  441 ,  88
+" Result 1 Trial 2 Fish G7 ",  310 ,  45
+" Result 1 Trial 2 Fish G8 ",  326 ,  93
+" Result 1 Trial 2 Fish G9 ",  51 ,  34
+" Result 1 Trial 2 Fish G10 ",  150 ,  70
+" Result 1 Trial 2 Fish G11 ",  511 ,  41
+
+
+
+"Data for non-filtered data sheet"
+"fish name", total minutes used, total minutes asleep, # sleep bouts, average sleep bout length (min)
+" Result 1 Trial 1 Fish D6 ",  604 ,  9 ,  4 , 2.25
+" Result 1 Trial 1 Fish D7 ",  604 ,  35 ,  6 , 5.833333333333333
+" Result 1 Trial 1 Fish D8 ",  604 ,  132 ,  15 , 8.8
+" Result 1 Trial 1 Fish D9 ",  604 ,  17 ,  6 , 2.8333333333333335
+" Result 1 Trial 1 Fish D10 ",  604 ,  99 ,  23 , 4.304347826086956
+" Result 1 Trial 1 Fish D11 ",  604 ,  84 ,  13 , 6.461538461538462
+" Result 1 Trial 1 Fish E2 ",  604 ,  29 ,  6 , 4.833333333333333
+" Result 1 Trial 1 Fish E3 ",  604 ,  114 ,  14 , 8.142857142857142
+" Result 1 Trial 1 Fish E4 ",  604 ,  159 ,  33 , 4.818181818181818
+" Result 1 Trial 1 Fish E5 ",  604 ,  179 ,  33 , 5.424242424242424
+" Result 1 Trial 1 Fish E6 ",  604 ,  39 ,  10 , 3.9
+" Result 1 Trial 1 Fish E9 ",  604 ,  47 ,  12 , 3.9166666666666665
+" Result 1 Trial 1 Fish E10 ",  604 ,  40 ,  6 , 6.666666666666667
+" Result 1 Trial 1 Fish E11 ",  604 ,  129 ,  24 , 5.375
+" Result 1 Trial 1 Fish F2 ",  604 ,  142 ,  23 , 6.173913043478261
+" Result 1 Trial 1 Fish F3 ",  604 ,  108 ,  16 , 6.75
+" Result 1 Trial 1 Fish F4 ",  604 ,  18 ,  6 , 3.0
+" Result 1 Trial 1 Fish F5 ",  604 ,  66 ,  10 , 6.6
+" Result 1 Trial 1 Fish F6 ",  604 ,  28 ,  7 , 4.0
+" Result 1 Trial 1 Fish F7 ",  604 ,  38 ,  7 , 5.428571428571429
+" Result 1 Trial 1 Fish F8 ",  604 ,  7 ,  1 , 7.0
+" Result 1 Trial 1 Fish F9 ",  604 ,  25 ,  5 , 5.0
+" Result 1 Trial 1 Fish F10 ",  604 ,  8 ,  3 , 2.6666666666666665
+" Result 1 Trial 1 Fish G2 ",  604 ,  57 ,  7 , 8.142857142857142
+" Result 1 Trial 1 Fish G3 ",  604 ,  273 ,  26 , 10.5
+" Result 1 Trial 1 Fish G4 ",  604 ,  182 ,  26 , 7.0
+" Result 1 Trial 1 Fish G5 ",  604 ,  140 ,  25 , 5.6
+" Result 1 Trial 1 Fish G7 ",  604 ,  5 ,  2 , 2.5
+" Result 1 Trial 1 Fish G9 ",  604 ,  5 ,  3 , 1.6666666666666667
+" Result 1 Trial 1 Fish G10 ",  604 ,  83 ,  22 , 3.772727272727273
+" Result 1 Trial 1 Fish G11 ",  604 ,  29 ,  6 , 4.833333333333333
+" Result 1 Trial 2 Fish D6 ",  604 ,  32 ,  8 , 4.0
+" Result 1 Trial 2 Fish D7 ",  604 ,  140 ,  20 , 7.0
+" Result 1 Trial 2 Fish D8 ",  604 ,  22 ,  3 , 7.333333333333333
+" Result 1 Trial 2 Fish D9 ",  604 ,  47 ,  9 , 5.222222222222222
+" Result 1 Trial 2 Fish D10 ",  604 ,  198 ,  32 , 6.1875
+" Result 1 Trial 2 Fish D11 ",  604 ,  223 ,  25 , 8.92
+" Result 1 Trial 2 Fish E2 ",  604 ,  96 ,  11 , 8.727272727272727
+" Result 1 Trial 2 Fish E3 ",  604 ,  136 ,  20 , 6.8
+" Result 1 Trial 2 Fish E4 ",  604 ,  21 ,  8 , 2.625
+" Result 1 Trial 2 Fish E5 ",  604 ,  168 ,  21 , 8.0
+" Result 1 Trial 2 Fish E6 ",  604 ,  50 ,  13 , 3.8461538461538463
+" Result 1 Trial 2 Fish E7 ",  604 ,  117 ,  18 , 6.5
+" Result 1 Trial 2 Fish E8 ",  604 ,  71 ,  8 , 8.875
+" Result 1 Trial 2 Fish E9 ",  604 ,  31 ,  6 , 5.166666666666667
+" Result 1 Trial 2 Fish E10 ",  604 ,  62 ,  17 , 3.6470588235294117
+" Result 1 Trial 2 Fish E11 ",  604 ,  48 ,  8 , 6.0
+" Result 1 Trial 2 Fish F2 ",  604 ,  80 ,  17 , 4.705882352941177
+" Result 1 Trial 2 Fish F3 ",  604 ,  116 ,  19 , 6.105263157894737
+" Result 1 Trial 2 Fish F4 ",  604 ,  59 ,  15 , 3.933333333333333
+" Result 1 Trial 2 Fish F5 ",  604 ,  22 ,  6 , 3.6666666666666665
+" Result 1 Trial 2 Fish F6 ",  604 ,  80 ,  20 , 4.0
+" Result 1 Trial 2 Fish F7 ",  604 ,  87 ,  19 , 4.578947368421052
+" Result 1 Trial 2 Fish F8 ",  604 ,  84 ,  15 , 5.6
+" Result 1 Trial 2 Fish F9 ",  604 ,  69 ,  12 , 5.75
+" Result 1 Trial 2 Fish F10 ",  604 ,  48 ,  11 , 4.363636363636363
+" Result 1 Trial 2 Fish F11 ",  604 ,  82 ,  9 , 9.11111111111111
+" Result 1 Trial 2 Fish G2 ",  604 ,  46 ,  10 , 4.6
+" Result 1 Trial 2 Fish G3 ",  604 ,  73 ,  13 , 5.615384615384615
+" Result 1 Trial 2 Fish G4 ",  604 ,  33 ,  7 , 4.714285714285714
+" Result 1 Trial 2 Fish G5 ",  604 ,  129 ,  23 , 5.608695652173913
+" Result 1 Trial 2 Fish G6 ",  604 ,  88 ,  17 , 5.176470588235294
+" Result 1 Trial 2 Fish G7 ",  604 ,  45 ,  11 , 4.090909090909091
+" Result 1 Trial 2 Fish G8 ",  604 ,  93 ,  15 , 6.2
+" Result 1 Trial 2 Fish G9 ",  604 ,  34 ,  4 , 8.5
+" Result 1 Trial 2 Fish G10 ",  604 ,  70 ,  9 , 7.777777777777778
+" Result 1 Trial 2 Fish G11 ",  604 ,  41 ,  12 , 3.4166666666666665
